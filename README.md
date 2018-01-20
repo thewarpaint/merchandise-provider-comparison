@@ -2,9 +2,9 @@
 
 ## Disclaimer
 
-This is a non-exhaustive, informational list meant only for reference.
-No guarantee is provided that the information displayed here is correct or up-to-date.
-Before signing up to any of these services, you must read and agree to their terms of service.
+- This is a non-exhaustive, informational list meant only for reference.
+- No guarantee is provided that the information displayed here is correct or up-to-date.
+- Before signing up to any of these services, you must read and agree to their terms of service.
 
 
 ## Comparison
