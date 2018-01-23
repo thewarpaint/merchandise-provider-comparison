@@ -25,6 +25,7 @@
 
 - https://blog.teegrasp.com/comparison-shopify-t-shirt-fulfilment-apps/
 - https://thehustle.co/profiting-on-teespring/amp/
+- https://toughnickel.com/self-employment/Sets-All-Set
 
 
 ### Spreadshirt
