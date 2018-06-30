@@ -21,6 +21,22 @@
 | [Teespring](https://teespring.com/)                 | Worldwide                    | Apparel, phone cases, stickers, canvas prints, posters, mugs, etc.           | Flexible (base cost, you choose the profit)                                                                                                                     | Production, delivery, e-commerce                           | Seller is responsible to pay them                                                                                                                        | No ownership claims on your work, licence for them to use it to advertise                                            | EPS: fully vector; PNG/JPEG/GIF: 120 DPI for US campaigns, 300 DPI for EU campaigns                                                | Minimum of 1 product for 120 DPI / 300 DPI designs | Yes                  | Email, password                                                   | ?                                                                                                                        | ?              | None                            | No                      | [Teespring](https://teespring.com/)                 |
 | [Threadless](https://www.threadless.com/)           | Worldwide                    | Apparel, phone cases, canvas prints, posters, mugs, etc.                     | Flexible (base cost, you choose the profit)                                                                                                                     | Production, delivery, e-commerce, customer care            | Seller is responsible to handle them                                                                                                                     | No ownership claims on your work, licence for them to use it to advertise                                            | PNG with transparencies: minimum 2000px × 2000px, recommended 4200px × 4800px, depending on the product                            | No minimum, earnings are paid each month           | No                   | Email, password, username, custom store domain                    | Full name, address, phone number, PayPal account, W-9 form (US citizens, residents or companies)                         | No minimum     | None                            | No                      | [Threadless](https://www.threadless.com/)           |
 
+### Shipping costs
+
+Additional customs and duties charges may apply upon delivery.
+
+| Provider                                            | T-shirts                                                             |
+| --------------------------------------------------- | -------------------------------------------------------------------- |
+| [Printful](https://www.printful.com/)               | ?                                                                    |
+| [Redbubble](https://www.redbubble.com)              | DE: USD 2.75, ES: USD 2.75, MX: USD 8.24, UK: USD 5.35, US: USD 5.45 |
+| [Shopify](https://www.shopify.com/sell/tshirts)     | ?                                                                    |
+| [Spreadshirt](https://www.spreadshirt.com/)         | US: USD 5.99, International: USD 7.50                                |
+| [Sticker Mule](https://www.stickermule.com/)        | ?                                                                    |
+| [Stickers Pub](https://www.stickers.pub/)           | ?                                                                    |
+| [Teemill](https://teemill.com/)                     | ?                                                                    |
+| [Teespring](https://teespring.com/)                 | ?                                                                    |
+| [Threadless](https://www.threadless.com/)           | US: USD 5.75, International: USD 9.90                                |
+
 
 ## References
 
@@ -28,13 +44,13 @@
 - https://thehustle.co/profiting-on-teespring/amp/
 - https://toughnickel.com/self-employment/Sets-All-Set
 
-
 ### Redbubble
 
 - [User Agreement](https://www.redbubble.com/agreement)
 - [Redbubble Affiliate Program](https://www.redbubble.com/affiliates)
 - [Dimensions & Format](https://help.redbubble.com/hc/en-us/articles/202270679-Dimensions-Format-and-Colour)
 - [Artist Payment Process](https://help.redbubble.com/hc/en-us/articles/202270389-Artist-Payment-Process)
+- [Pricing & Shipping Costs](https://help.redbubble.com/hc/en-us/articles/206683443)
 
 ### Spreadshirt
 
@@ -47,6 +63,7 @@
 - [Payout Limit](https://image.spreadshirtmedia.net/content/v2/faq/assets/pdf/commission_payout_limit_en.pdf)
 - [Optimising pixel graphics for print](https://help.spreadshirt.com/hc/en-gb/articles/207945305-Optimising-pixel-graphics-for-print)
 - [Optimising vector graphics for print](https://help.spreadshirt.com/hc/en-gb/articles/206775719-Optimising-vector-graphics-for-print)
+- [Shipping times and costs](https://help.spreadshirt.com/hc/en-us/articles/207165489-Shipping-times-and-costs)
 
 ### Teemill
 
@@ -70,3 +87,4 @@
 - [Pricing](https://www.threadless.com/artist-shops/signup/art/pricing)
 - [Setting Up Your Design Files](http://artistshopshelp.threadless.com/article/204-how-do-i-set-up-my-design-files-for-my-artist-shop)
 - [THREADLESS.COM COMMUNITY GUIDELINES AND TERMS OF USE](https://www.threadless.com/info/terms/)
+- [How much is shipping?](https://support.threadless.com/article/45-how-much-is-shipping)
