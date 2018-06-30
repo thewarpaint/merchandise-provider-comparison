@@ -88,3 +88,11 @@ Additional customs and duties charges may apply upon delivery.
 - [Setting Up Your Design Files](http://artistshopshelp.threadless.com/article/204-how-do-i-set-up-my-design-files-for-my-artist-shop)
 - [THREADLESS.COM COMMUNITY GUIDELINES AND TERMS OF USE](https://www.threadless.com/info/terms/)
 - [How much is shipping?](https://support.threadless.com/article/45-how-much-is-shipping)
+
+
+## Discovery
+
+Marketplaces to explore:
+
+- [Ink-Kong](https://www.ink-kong.com/pages/kong-artist)
+- [Printome](https://printome.mx/)
